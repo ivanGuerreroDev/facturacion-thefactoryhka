@@ -1,0 +1,3878 @@
+[
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BOCAS DEL TORO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BASTIMENTOS"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CAUCHERO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PUNTA LAUREL"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "TIERRA OSCURA"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHANGUINOLA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GUABITO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "TERIBE"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "VALLE DEL RISCO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL EMPALME"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LAS TABLAS"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHIRIQUI GRANDE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "MIRAMAR"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "PUNTA PEÑA"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PUNTA ROBALO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "RAMBALA"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "BAJO DEL CEDRO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "ALMIRANTE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BARRIADA GUAYMI"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BARRIO FRANCES"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "NANCE DE RISCO"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "VALLE DE AGUAS ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 1,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "VALLE DE RISCO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "AGUADULCE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL CRISTO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL ROBLE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "POCRI"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "BARRIOS UNIDOS"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "ANTON (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL CHIRU"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL RETIRO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL VALLE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "JUAN DIAZ"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "RIO HATO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "SAN JUAN DE DIOS"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SANTA RITA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "CABALLERO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LA PINTADA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL HARINO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL POTRERO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PIEDRAS GORDAS"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LAS LOMAS"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "NATA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAPELLANIA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL CAÑO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUZMAN"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LAS HUACAS"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "TOZA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "OLA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL COPE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL PALMAR"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL PICACHO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LA PAVA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PENONOME (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAÑAVERAL"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "COCLE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CHIGUIRI ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL COCO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PAJONAL"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "RIO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "RIO INDIO"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "TOABRE"
+  },
+  {
+    "IBSNFEProvincia": 2,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "TULU"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BARRIO NORTE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BARRIO SUR"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BUENA VISTA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CATIVA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CIRICITO"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "CRISTOBAL"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "ESCOBAL"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LIMON"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "NUEVA PROVIDENCIA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "PUERTO PILON"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SABANITAS"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "SALAMANCA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 15,
+    "Descripcion": "CRISTOBAL ESTE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "NUEVO CHAGRES (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ACHIOTE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL GUABO"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA ENCANTADA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PALMAS BELLAS"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PIÑA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "SALUD"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "MIGUEL DE LA BORDA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "COCLE DEL NORTE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL GUASIMO"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GOBEA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "RIO INDIO"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SAN JOSE DEL GENERAL"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PORTOBELO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CACIQUE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GARROTE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "ISLA GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "MARIA CHIQUITA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PALENQUE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CUANGO"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "MIRAMAR"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "NOMBRE DE DIOS"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PLAYA CHIQUITA"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "SANTA ISABEL"
+  },
+  {
+    "IBSNFEProvincia": 3,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "VIENTO FRIO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "ALANJE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "DIVALA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL TEJAR"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUARUMAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PALO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "QUEREVALO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "SANTO TOMAS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "CANTA GALLO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "NUEVO MEXICO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PUERTO ARMUELLES (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LIMONES"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "PROGRESO BACO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "RODOLFO AGUILAR DELGADO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BOQUERON (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BAGALA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CORDILLERA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUABAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "GUAYABAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PARAISO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "TIJERAS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BAJO BOQUETE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CALDERA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "ALTO BOQUETE"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "JARAMILLO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LOS NARANJOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LA CONCEPCION (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ASERRIO DE GARICHE"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BUGABA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CERRO PUNTA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "GOMEZ"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LA ESTRELLA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "SAN ANDRES"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "SANTA MARTA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SANTO DOMINGO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SORTOVA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "VOLCAN"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "EL BONGO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "DAVID (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BIJAGUAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "COCHEA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CHIRIQUI"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "GUACA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LAS LOMAS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "SAN CARLOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SAN PABLO NUEVO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SAN PABLO VIEJO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "DOLEGA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "DOS RIOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS ANASTACIOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "POTRERILLOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "POTRERILLOS ABAJO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "ROVIRA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "TINAJAS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LOS ALGARROBOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "GUALACA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "HORNITO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS ANGELES"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PAJA DE SOMBRERO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "RINCON"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "REMEDIOS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL NANCITO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL PORVENIR"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL PUERTO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SANTA LUCIA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "RIO SERENO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BREÑON"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CAÑAS GORDAS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "MONTE LIRIO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PLAZA CAISAN"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SANTA CRUZ"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "DOMINICAL"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "SANTA CLARA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LAS LAJAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "JUAY"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LAJAS ADENTRO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "SAN FELIX"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SANTA CRUZ"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "HORCONCITOS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BOCA CHICA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BOCA DEL MONTE"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN LORENZO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "TOLE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BELLA VISTA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CERRO VIEJO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL CRISTO"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "JUSTO FIDEL PALACIOS"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LAJAS DE TOLE"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "POTRERO DE CAÑA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "QUEBRADA DE PIEDRA"
+  },
+  {
+    "IBSNFEProvincia": 4,
+    "IBSNFEDistrito": 13,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "VELADERO"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LA PALMA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAMOGANTI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CHEPIGANA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GARACHINE"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "JAQUE"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PUERTO PIÑA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "RIO CONGO"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "RIO IGLESIAS"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SAMBU"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SETEGANTI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "TAIMATI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "TUCUTI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "AGUA FRIA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "CUCUNATI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 15,
+    "Descripcion": "RIO CONGO ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 16,
+    "Descripcion": "SANTA FE"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "EL REAL DE SANTA MARIA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BOCA DE CUPE"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "PAYA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PINOGANA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PUCURO"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "YAPE"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "YAVIZA"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "METETI"
+  },
+  {
+    "IBSNFEProvincia": 5,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "COMARCA KUNA DE WARGANDI"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHITRE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LA ARENA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "MONAGRILLO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LLANO BONITO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN JUAN BAUTISTA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LAS MINAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CHEPO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CHUMICAL"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL TORO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LEONES"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "QUEBRADA DEL ROSARIO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "QUEBRADA EL CIPRIAN"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LOS POZOS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAPURI"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL CALABACITO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL CEDRO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LA ARENA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LA PITALOSA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LOS CERRITOS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LOS CERROS DE PAJA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LAS LLANAS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "OCU (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CERRO LARGO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS LLANOS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PEÑAS CHATAS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL TIJERA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "MENCHACA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PARITA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS CASTILLOS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LLANO DE LA CRUZ"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PARIS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "PORTOBELILLO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "POTUGA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PESE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LAS CABRAS"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL PAJARO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL BARRERO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL PEDREGOSO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL CIRUELO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "SABANA GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "RINCON HONDO"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SANTA MARIA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CHUPAMPA"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL RINCON"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL LIMON"
+  },
+  {
+    "IBSNFEProvincia": 6,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LOS CANELOS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "GUARARE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL ESPINAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL MACANO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUARARE ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LA ENEA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LA PASERA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LAS TRANCAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LLANO ABAJO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "EL HATO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "PERALES"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LAS TABLAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BAJO CORRAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BAYANO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL CARATE"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL COCAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL MANANTIAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "EL MUÑOZ"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "EL PEDREGOSO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LA LAJA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "LA MIEL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "LA PALMA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "LA TIZA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "LAS PALMITAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "LAS TABLAS ABAJO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 15,
+    "Descripcion": "NUARIO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 16,
+    "Descripcion": "PALMIRA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 17,
+    "Descripcion": "PEÑA BLANCA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 18,
+    "Descripcion": "RIO HONDO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 19,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 20,
+    "Descripcion": "SAN MIGUEL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 21,
+    "Descripcion": "SANTO DOMINGO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 22,
+    "Descripcion": "SESTEADERO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 23,
+    "Descripcion": "VALLE RICO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 24,
+    "Descripcion": "VALLERIQUITO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LA VILLA DE LOS SANTOS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL GUASIMO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LA COLORADA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA ESPIGADILLA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LAS CRUCES"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LAS GUABAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LOS ANGELES"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LOS OLIVOS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LLANO LARGO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SABANA GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SANTA ANA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "TRES QUEBRADAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "AGUA BUENA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "VILLA LOURDES"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "MACARACAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BAHIA HONDA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BAJOS DE GUERA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "COROZAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CHUPA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL CEDRO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "ESPINO AMARILLO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LA MESA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LAS PALMAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "LLANO DE PIEDRA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "MOGOLLON"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "PEDASI (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LOS ASIENTOS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "MARIABE"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PURIO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "ORIA ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "POCRI"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL CAÑAFISTULO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LAJAMINA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PARAISO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PARITILLA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "TONOSI (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ALTOS DE GUERA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CAÑAS"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL BEBEDERO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL CORTEZO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "FLORES"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "GUANICO"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LA TRONOSA"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "CAMBUTAL"
+  },
+  {
+    "IBSNFEProvincia": 7,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "ISLA DE CAQAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SAN MIGUEL (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LA ENSENADA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LA ESMERALDA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA GUINEA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PEDRO GONZALEZ"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SABOGA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHEPO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAÑITA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CHEPILLO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL LLANO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LAS MARGARITAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SANTA CRUZ DE CHININA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "COMARCA KUNA DE MADUNGANDI"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "TORTI"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHIMAN (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BRUJAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GONZALO VASQUEZ"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "PASIGA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "UNION SANTEÑA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SAN FELIPE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL CHORRILLO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "SANTA ANA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA EXPOSICION O CALIDONIA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CURUNDU"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "BETANIA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "BELLA VISTA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "PUEBLO NUEVO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SAN FRANCISCO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "PARQUE LEFEVRE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "RIO ABAJO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "JUAN DIAZ"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "PEDREGAL"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "ANCON"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 15,
+    "Descripcion": "CHILIBRE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 16,
+    "Descripcion": "LAS CUMBRES"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 17,
+    "Descripcion": "PACORA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 18,
+    "Descripcion": "SAN MARTIN"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 19,
+    "Descripcion": "TOCUMEN"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 20,
+    "Descripcion": "LAS MAÑANITAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 21,
+    "Descripcion": "24 DE DICIEMBRE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 22,
+    "Descripcion": "ERNESTO CORDOBA CAMPOS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 23,
+    "Descripcion": "ALCALDE DIAZ"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 24,
+    "Descripcion": "CAIMITILLO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 25,
+    "Descripcion": "DON BOSCO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 26,
+    "Descripcion": "LAS GARZAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "AMELIA DENIS DE ICAZA"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BELISARIO PORRAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "JOSE DOMINGO ESPINAR"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "MATEO ITURRALDE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "VICTORIANO LORENZO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "ARNULFO ARIAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "BELISARIO FRIAS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "OMAR TORRIJOS"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "RUFINA ALFARO"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "TABOGA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "OTOQUE ORIENTE"
+  },
+  {
+    "IBSNFEProvincia": 8,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "OTOQUE OCCIDENTE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "ATALAYA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL BARRITO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LA MONTAÑUELA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA CARRILLO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN ANTONIO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CALOBRE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BARNIZAL"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CHITRA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL COCLA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL POTRERO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LA LAGUNA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LA RAYA DE CALOBRE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LA TETILLA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LA YEGUADA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "LAS GUIAS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "MONJARAS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CAÑAZAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CERRO PLATA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL PICADOR"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LOS VALLES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SAN MARCELO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "EL AROMILLO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LAS CRUCES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LA MESA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BISVALLES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BORO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LLANO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN BARTOLO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LOS MILAGROS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LAS PALMAS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CERRO DE CASA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "COROZAL"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL MARIA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL PRADO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL RINCON"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LOLA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "PIXVAE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "PUERTO VIDAL"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SAN MARTIN DE PORRES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "VIGUI"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "ZAPOTILLO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "ALTAMIRA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "MONTIJO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ARENAS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GOBERNADORA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA GARCEANA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LEONES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "CEBACO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "COSTA HERMOSA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "UNION DEL NORTE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "TEBARIO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "EL PILON"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "RIO DE JESUS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LAS HUACAS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS CASTILLOS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "UTIRA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CATORCE DE NOVIEMBRE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SAN FRANCISCO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CORRAL FALSO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOS HATILLOS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "REMANCE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SAN JUAN"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SAN JOSE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SANTA FE (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CALOVEBORA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL ALTO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "EL CUAY"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL PANTANO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "GATU O GATUCITO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "RIO LUIS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SANTIAGO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LA COLORADA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LA PEÑA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LA RAYA DE SANTA MARIA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "PONUGA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SAN PEDRO DEL ESPINO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "CANTO DEL LLANO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LOS ALGARROBOS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "CARLOS SANTANA AVILA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "EDWIN FABREGA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SAN MARTIN DE PORRES"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 10,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "URRACA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SONA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BAHIA HONDA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CALIDONIA"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CATIVE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL MARAÑON"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "GUARUMAL"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LA SOLEDAD"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "QUEBRADA DE ORO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "RIO GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 11,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "RODEO VIEJO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "LLANO DE CATIVAL O MARIATO (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ARENAS"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "QUEBRO"
+  },
+  {
+    "IBSNFEProvincia": 9,
+    "IBSNFEDistrito": 12,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "TEBARIO"
+  },
+  {
+    "IBSNFEProvincia": 10,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "NARGANA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 10,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "AILIGANDI"
+  },
+  {
+    "IBSNFEProvincia": 10,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "PUERTO OBALDIA"
+  },
+  {
+    "IBSNFEProvincia": 10,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "TUBUALA"
+  },
+  {
+    "IBSNFEProvincia": 11,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CIRILO GUAINORA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 11,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "LAJAS BLANCAS"
+  },
+  {
+    "IBSNFEProvincia": 11,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "MANUEL ORTEGA"
+  },
+  {
+    "IBSNFEProvincia": 11,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "RIO SABALO"
+  },
+  {
+    "IBSNFEProvincia": 11,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "JINGURUDO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SOLOY (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BOCA DE BALSA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CAMARON ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CERRO BANCO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CERRO DE PATENA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EMPLANADA DE CHORCHA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "NAMNONI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "NIBA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "HATO PILON (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CASCABEL"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "HATO COROTU"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "HATO CULANTRO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "HATO JOBO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "HATO JULI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "QUEBRADA DE LORO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "SALTO DUPI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHICHICA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ALTO CABALLERO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BAKAMA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CERRO CAÑA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CERRO PUERCO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "KRUA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "MARACA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "NIBRA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "PEÑA BLANCA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "ROKA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SITIO PRADO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "UMANI CERRO IGLESIAS"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "(CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "HATO CHAMI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "JADEBERI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LAJERO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "SUSAMA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BUENOS AIRES (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "AGUA DE SALUD"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "ALTO DE JESUS"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CERRO PELADO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL BALE"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL PAREDON"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "EL PIRO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "GUAYABITO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "GUIBALE"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BISIRA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BURI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GUARIVIARA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUORONI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "KANKINTU"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "MUNUNI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "PIEDRA ROJA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "TUWAI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 6,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "MAN CREEK"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "KUSAPIN (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BAHIA AZUL"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CALOVEBORA O SANTA CATALINA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "LOMA YUCA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "RIO CHIRIQUI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "TOBOBE"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 7,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "VALLE BONITO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SAMBOA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BURI"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "GUARIVIARA"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "MAN CREEK"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 8,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "TUWAI SANTA CATALINA O"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CALOVEBORA (BLEDESHIA)(CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "ALTO BILINGUE (GDOGUESHIA)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "LOMA YUKA (LJUICHO)"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "SAN PEDRITO"
+  },
+  {
+    "IBSNFEProvincia": 12,
+    "IBSNFEDistrito": 9,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "VALLE BONITO(DOGATA)"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "ARRAIJAN (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BURUNGA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CERRO SILVESTRE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "JUAN DEMOSTENES AROSEMENA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "NUEVO EMPERADOR"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "SANTA CLARA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "VERACRUZ"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 1,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "VISTA ALEGRE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CAPIRA (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "CAIMITO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "CAMPANA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CERMEÑO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CIRI DE LOS SOTOS"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "CIRI GRANDE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "EL CACAO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LA TRINIDAD"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "LAS OLLAS ARRIBA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "LIDICE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "VILLA CARMEN"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "VILLA ROSARIO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 2,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "SANTA ROSA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "CHAME (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BEJUCO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "BUENOS AIRES"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "CABUYA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "CHICA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL LIBANO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LAS LAJAS"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "NUEVA GORGONA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "PUNTA CHAME"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "SAJALICES"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 3,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "SORA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "BARRIO BALBOA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "BARRIO COLON"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "AMADOR"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "AROSEMENA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "EL ARADO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "EL COCO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "FEUILLET"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "GUADALUPE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "HERRERA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 10,
+    "Descripcion": "HURTADO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 11,
+    "Descripcion": "ITURRALDE"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 12,
+    "Descripcion": "LA REPRESA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 13,
+    "Descripcion": "LOS DIAZ"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 14,
+    "Descripcion": "MENDOZA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 15,
+    "Descripcion": "OBALDIA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 16,
+    "Descripcion": "PLAYA LEONA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 17,
+    "Descripcion": "PUERTO CAIMITO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 4,
+    "IBSNFECorregimientos": 18,
+    "Descripcion": "SANTA RITA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 1,
+    "Descripcion": "SAN CARLOS (CABECERA)"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 2,
+    "Descripcion": "EL ESPINO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 3,
+    "Descripcion": "EL HIGO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 4,
+    "Descripcion": "GUAYABITO"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 5,
+    "Descripcion": "LA ERMITA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 6,
+    "Descripcion": "LA LAGUNA"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 7,
+    "Descripcion": "LAS UVAS"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 8,
+    "Descripcion": "LOS LLANITOS"
+  },
+  {
+    "IBSNFEProvincia": 13,
+    "IBSNFEDistrito": 5,
+    "IBSNFECorregimientos": 9,
+    "Descripcion": "SAN JOSE"
+  }
+]

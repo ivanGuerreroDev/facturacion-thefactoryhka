@@ -1,0 +1,54 @@
+[
+    {
+        "IBSNFEProvincia": 1,
+        "Descripcion": "BOCAS DEL TORO"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "Descripcion": "COCLE"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "Descripcion": "COLON"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "Descripcion": "CHIRIQUI"
+    },
+    {
+        "IBSNFEProvincia": 5,
+        "Descripcion": "DARIEN"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "Descripcion": "HERRERA"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "Descripcion": "LOS SANTOS"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "Descripcion": "PANAMA"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "Descripcion": "VERAGUAS"
+    },
+    {
+        "IBSNFEProvincia": 10,
+        "Descripcion": "COMARCA KUNA YALA"
+    },
+    {
+        "IBSNFEProvincia": 11,
+        "Descripcion": "COMARCA EMBERA-WOUNAAN"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "Descripcion": "COMARCA NGÄBE-BUGLE"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "Descripcion": "PANAMA OESTE"
+    }
+]

@@ -1,0 +1,397 @@
+[
+    {
+        "IBSNFEProvincia": 1,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "BOCAS DEL TORO"
+    },
+    {
+        "IBSNFEProvincia": 1,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "CHANGUINOLA"
+    },
+    {
+        "IBSNFEProvincia": 1,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "CHIRIQUI GRANDE"
+    },
+    {
+        "IBSNFEProvincia": 1,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "ALMIRANTE"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "AGUADULCE"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "ANTON"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "LA PINTADA"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "NATA"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "OLA"
+    },
+    {
+        "IBSNFEProvincia": 2,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "PENONOME"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "COLON"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "CHAGRES"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "DONOSO"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "PORTOBELO"
+    },
+    {
+        "IBSNFEProvincia": 3,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "SANTA ISABEL"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "ALANJE"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "BARU"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "BOQUERON"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "BOQUETE"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "BUGABA"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "DAVID"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 7,
+        "Descripcion": "DOLEGA"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 8,
+        "Descripcion": "GUALACA"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 9,
+        "Descripcion": "REMEDIOS"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 10,
+        "Descripcion": "RENACIMIENTO"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 11,
+        "Descripcion": "SAN FELIX"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 12,
+        "Descripcion": "SAN LORENZO"
+    },
+    {
+        "IBSNFEProvincia": 4,
+        "IBSNFEDistrito": 13,
+        "Descripcion": "TOLE"
+    },
+    {
+        "IBSNFEProvincia": 5,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "CHEPIGANA"
+    },
+    {
+        "IBSNFEProvincia": 5,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "PINOGANA"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "CHITRE"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "LAS MINAS"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "LOS POZOS"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "OCU"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "PARITA"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "PESE"
+    },
+    {
+        "IBSNFEProvincia": 6,
+        "IBSNFEDistrito": 7,
+        "Descripcion": "SANTA MARIA"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "GUARARE"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "LAS TABLAS"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "LOS SANTOS"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "MACARACAS"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "PEDASI"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "POCRI"
+    },
+    {
+        "IBSNFEProvincia": 7,
+        "IBSNFEDistrito": 7,
+        "Descripcion": "TONOSI"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "BALBOA"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "CHEPO"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "CHIMAN"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 8,
+        "Descripcion": "PANAMA"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 10,
+        "Descripcion": "SAN MIGUELITO"
+    },
+    {
+        "IBSNFEProvincia": 8,
+        "IBSNFEDistrito": 11,
+        "Descripcion": "TABOGA"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "ATALAYA"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "CALOBRE"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "CAÑAZAS"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "LA MEZA"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "LAS PALMAS"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "MONTIJO"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 7,
+        "Descripcion": "RIO DE JESUS"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 8,
+        "Descripcion": "SAN FRANCISCO"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 9,
+        "Descripcion": "SANTA FE"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 10,
+        "Descripcion": "SANTIAGO"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 11,
+        "Descripcion": "SONA"
+    },
+    {
+        "IBSNFEProvincia": 9,
+        "IBSNFEDistrito": 12,
+        "Descripcion": "MARIATO"
+    },
+    {
+        "IBSNFEProvincia": 10,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "COMARCA KUNA YALA"
+    },
+    {
+        "IBSNFEProvincia": 11,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "CEMACO"
+    },
+    {
+        "IBSNFEProvincia": 11,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "SAMBU"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "BESIKO"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "MIRONO"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "MUNA"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "NOLE DUIMA"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "NURUM"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 6,
+        "Descripcion": "KANKINTU"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 7,
+        "Descripcion": "KUSAPIN"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 8,
+        "Descripcion": "JIRONDAI"
+    },
+    {
+        "IBSNFEProvincia": 12,
+        "IBSNFEDistrito": 9,
+        "Descripcion": "SANTA CATALINA O CALOVEBORA (BLEDESHIA)"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "IBSNFEDistrito": 1,
+        "Descripcion": "ARRAIJAN"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "IBSNFEDistrito": 2,
+        "Descripcion": "CAPIRA"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "IBSNFEDistrito": 3,
+        "Descripcion": "CHAME"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "IBSNFEDistrito": 4,
+        "Descripcion": "LA CHORRERA"
+    },
+    {
+        "IBSNFEProvincia": 13,
+        "IBSNFEDistrito": 5,
+        "Descripcion": "SAN CARLOS"
+    }
+]
