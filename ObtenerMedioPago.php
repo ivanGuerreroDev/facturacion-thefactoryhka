@@ -1,5 +1,5 @@
 <?php
-if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+if (!defined('ABSPATH')) exit; // Exit if accessed directly
 include_once 'Enum/EnumMedioPago.php';
 
 class BSNFEObtenerMedioPago
@@ -19,9 +19,6 @@ class BSNFEObtenerMedioPago
       case BSNFEEnumMedioPago::ContraRembolso:
         $vlnCodigoTarifa = BSNFEEnumMedioPago::PuntoDePago;
         break;
-      case GTIEnumMedioPago::PaypalEstandar:
-        $vlnCodigoTarifa = BSNFEEnumMedioPago::Tarjeta;
-        break;
       case BSNFEEnumMedioPago::PagosPei:
         $vlnCodigoTarifa = BSNFEEnumMedioPago::Tarjeta;
         break;
@@ -37,10 +34,18 @@ class BSNFEObtenerMedioPago
       case BSNFEEnumMedioPago::Vpos:
         $vlnCodigoTarifa = BSNFEEnumMedioPago::Tarjeta;
         break;
+      case BSNFEEnumMedioPago::Nmipay:
+        $vlnCodigoTarifa = BSNFEEnumMedioPago::Tarjeta;
+        break;
+      case BSNFEEnumMedioPago::Yappy:
+        $vlnCodigoTarifa = BSNFEEnumMedioPago::Transferencia;
+        break;
+      case BSNFEEnumMedioPago::PaypalEstandar:
+          $vlnCodigoTarifa = BSNFEEnumMedioPago::Tarjeta;
+          break;
       default:
         $vlnCodigoTarifa = BSNFEEnumMedioPago::Invalido;
     }
     return $vlnCodigoTarifa;
   }
 }
-?>

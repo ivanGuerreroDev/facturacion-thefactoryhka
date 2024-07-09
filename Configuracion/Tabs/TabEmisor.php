@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Escapar y sanear los números de teléfono
         $tel = sanitize_text_field(wp_unslash($tel));
         // Validar si el teléfono es válido antes de agregarlo a la lista
-        if (!empty($tel) && preg_match('/^\d{3}-\d{4}-\d{4}$/', $tel)) {
+        if (!empty($tel)) {
             $telList[] = $tel;
         } else {
             $message = 'Es un formato de teléfono inválido: ' . $telefono['value'];
@@ -288,7 +288,7 @@ $BSNFEDistr =strlen($BSNFEDistr) == 0 ? 0 : $BSNFEDistr;
         var corregimientos;
         $.ajax(
             {
-                url: '/wordpress/wp-admin/admin-ajax.php',
+                url: '<?php echo esc_url(admin_url('admin-ajax.php')); ?>',
                 dataType: 'json',
                 data: {
                     'action': 'BSNFE_provincias_get',

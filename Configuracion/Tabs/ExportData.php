@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $data = array(
         'BSNFEPunto_Facturacion' => sanitize_text_field(get_option('BSNFEPunto_Facturacion')),
         'BSNFEDecimales' => sanitize_text_field(get_option('BSNFEDecimales')),
-        'BSNFEUsuario' => sanitize_text_field(get_option('BSNFEUsuario')),
+        'BSNFEToken' => sanitize_text_field(get_option('BSNFEToken')),
         'BSNFEClave' => sanitize_text_field(get_option('BSNFEClave')),
         'BSNFEambiente' => sanitize_text_field(get_option('BSNFEambiente')),
         'BSNFETipoRuc' => sanitize_text_field(get_option('BSNFETipoRuc')),
@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         'BSNFECorElectEmi' => sanitize_text_field(get_option('BSNFECorElectEmi'))
     );
     $jsonString  = json_encode($data);
-    $rutaArchivo = $base . '/WooCommerce-PA/respaldo.json';
+    $rutaArchivo = $base . '/woocommerce-facturacion/respaldo.json';
     $nombre = 'respaldo.json';
     file_put_contents($rutaArchivo, $jsonString);
 
@@ -51,7 +51,7 @@ function BSNFE_Register_my_general_settings_fields()
     register_setting('general', 'BSNFEPunto_Facturacion', 'esc_attr');
     register_setting('general', 'BSNFEDecimales', 'esc_attr');
 
-    register_setting('general', 'BSNFEUsuario', 'esc_attr');
+    register_setting('general', 'BSNFEToken', 'esc_attr');
 
     register_setting('general', 'BSNFEClave', 'esc_attr');
 
@@ -94,7 +94,7 @@ add_action('admin_notices', 'BSNFE_ImprimirMensajeConfiguracion');
             <?php } ?>
         </form>
         <?php if ($download) { ?>
-            <a href="<?php echo esc_url(get_site_url() . '/wp-content/plugins/WooCommerce-PA/respaldo.json'); ?>" download="respaldo.json" style="margin-top:20px" class="button-primary"><?php esc_html_e('Descargar Archivo', 'factura-electronica'); ?></a>
+            <a href="<?php echo esc_url(get_site_url() . '/wp-content/plugins/woocommerce-facturacion/respaldo.json'); ?>" download="respaldo.json" style="margin-top:20px" class="button-primary"><?php esc_html_e('Descargar Archivo', 'factura-electronica'); ?></a>
         <?php } ?>
     </div>
 </div>

@@ -19,8 +19,8 @@ function BSNFE_Register_my_general_settings_fields()
     register_setting('general', 'BSNFECodigo_Actividad', 'esc_attr');
     add_settings_field('BSNFECodigo_Actividad', '<label for="BSNFECodigo_Actividad">' . 'Codigo de Actividad' . '</label>', 'BSNFE_CrearInputCodigoActividad', 'general');
 
-    register_setting('general', 'BSNFEUsuario', 'esc_attr');
-    add_settings_field('BSNFEUsuario', '<label for="BSNFEUsuario">' . 'Usuario' . '</label>', 'BSNFE_CrearInputUsuario', 'general');
+    register_setting('general', 'BSNFEToken', 'esc_attr');
+    add_settings_field('BSNFEToken', '<label for="BSNFEToken">' . 'Token' . '</label>', 'BSNFE_CrearInputUsuario', 'general');
 
     register_setting('general', 'BSNFEClave', 'esc_attr');
     add_settings_field('BSNFEClave', '<label for="BSNFEClave">' . 'Contraseña' . '</label>', 'BSNFE_CrearInputClave', 'general');
@@ -46,8 +46,8 @@ function BSNFE_CrearInputCodigoActividad()
 
 function BSNFE_CrearInputUsuario()
 {
-    $vlcUsurio = get_option('BSNFEUsuario', '');
-    echo '<input type="text" id="BSNFEUsuario" name="BSNFEUsuario" value="' . esc_attr($vlcUsurio) . '" />';
+    $vlcUsurio = get_option('BSNFEToken', '');
+    echo '<input type="text" id="BSNFEToken" name="BSNFEToken" value="' . esc_attr($vlcUsurio) . '" />';
 }
 
 function BSNFE_CrearInputDecimales()

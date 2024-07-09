@@ -5,7 +5,7 @@ class BSNFEDocumento
     public function BSNFE_ObtenerEmisor()
     {
         $ubicacion = new BSNFEGetUbicacion();
-        $ubicacionData = $ubicacion->BSNFE_GenerarUbicacion(get_option('BSNFECorreg'),get_option('BSNFEProv'));
+        $ubicacionData = $ubicacion->BSNFE_GenerarUbicacion(get_option('BSNFECorreg'), get_option('BSNFEProv'));
         $BSNFETfnEm = explode(',', get_option('BSNFETfnEm'));
         $BSNFECorElectEmi = explode(',', get_option('BSNFECorElectEmi'));
 
@@ -42,90 +42,93 @@ class BSNFEDocumento
         $corregimiento = explode("-", $receptorData['corregimiento']);
 
         $ubicacion = new BSNFEGetUbicacion();
-        $ubicacionData = $ubicacion->BSNFE_GenerarUbicacion($corregimiento[2],$corregimiento[0]);
+        $ubicacionData = $ubicacion->BSNFE_GenerarUbicacion($corregimiento[2], $corregimiento[0]);
 
         $receptor = array(
+            "typefac" => $receptorData['typefac'],
             "iTipoRec" => $receptorData['iTipoRec'],
             "gRucRec" => array(
                 "dTipoRuc" => $receptorData['tiporuc'],
                 "dRuc" => $receptorData['ruc']
             )
         );
-        
-        if($receptorData['dv'] != ""){
+
+        if ($receptorData['dv'] != "") {
             $receptor["gRucRec"]["dDV"] = $receptorData['dv'];
         }
-        
-        $receptor["dNombRec"] = "{$receptorData['billing']['first_name']} {$receptorData['billing']['last_name']}";
+        if($receptorData['iTipoRec'] == "01" || $receptorData['iTipoRec'] == "03"){
+            $receptor["dNombRec"] = $receptorData['razonsocial'];
+        }else{
+            $receptor["dNombRec"] = "{$receptorData['billing']['first_name']} {$receptorData['billing']['last_name']}";
+        }        
         $receptor["dDirecRec"] = $receptorData['billing']['address_1'];
-        
+
         $receptor["gUbiRec"] = array(
             "dCodUbi" => $ubicacionData['CodigoUbicacion'],
             "dCorreg" => $ubicacionData['Corregimiento'],
             "dDistr" => $ubicacionData['Distrito'],
             "dProv" => $ubicacionData['Provincia']
         );
-        
+
         $receptor["dTfnRec"] = $receptorData['billing']['phone'];
         $receptor["dCorElectRec"] = $receptorData['billing']['email'];
-        $receptor["cPaisRec"] = "PA";        
+        $receptor["cPaisRec"] = "PA";
 
         return $receptor;
-
     }
 
     public function BSNFE_ObtenerTotales($items, $order)
-{
+    {
 
-    $vloObtenerMedioPago = new BSNFEObtenerMedioPago();
-    $medioPago = $vloObtenerMedioPago->BSNFE_ObtenerMedio($order->get_payment_method());
+        $vloObtenerMedioPago = new BSNFEObtenerMedioPago();
+        $medioPago = $vloObtenerMedioPago->BSNFE_ObtenerMedio($order->get_payment_method());
 
-    $dTotNeto = 0;
-    $dTotITBMS = 0;
-    $dTotGravado = 0;
-    $dVTot = 0;
-    $dTotRec = 0;
-    $dVuelto = 0;
-    $dVlrCuota = 0;
-    $dVTotItems = 0;
+        $dTotNeto = 0;
+        $dTotITBMS = 0;
+        $dTotGravado = 0;
+        $dVTot = 0;
+        $dTotRec = 0;
+        $dVuelto = 0;
+        $dVlrCuota = 0;
+        $dVTotItems = 0;
 
-    foreach ($items as $item) {
-        // Eliminar separadores de miles antes de convertir a número
-        $dTotNeto += (float) str_replace(',', '', $item['gPrecios']['dPrItem']);
-        $dTotITBMS += (float) str_replace(',', '', $item['gITBMSItem']['dValITBMS']);
-        $dTotGravado = (float) $dTotITBMS;
-        $dVTot += (float) str_replace(',', '', $item['gPrecios']['dValTotItem']);
-        $dTotRec = (float) $dVTot;
-        $dVlrCuota = (float) $dVTot;
-        $dVTotItems = (float) $dVTot;
+        foreach ($items as $item) {
+            // Eliminar separadores de miles antes de convertir a número
+            $dTotNeto += (float) str_replace(',', '', $item['gPrecios']['dPrItem']);
+            $dTotITBMS += (float) str_replace(',', '', $item['gITBMSItem']['dValITBMS']);
+            $dTotGravado = (float) $dTotITBMS;
+            $dVTot += (float) str_replace(',', '', $item['gPrecios']['dValTotItem']);
+            $dTotRec = (float) $dVTot;
+            $dVlrCuota = (float) $dVTot;
+            $dVTotItems = (float) $dVTot;
+        }
+
+        $totales = array(
+            "dTotNeto" => (number_format((float) $dTotNeto, 2)),
+            "dTotITBMS" => (number_format((float) $dTotITBMS, 2)),
+            "dTotGravado" => (number_format((float) $dTotGravado, 2)),
+            "dVTot" => (number_format((float) $dVTot, 2)),
+            "dTotRec" => (number_format((float) $dTotRec, 2)),
+            "dVuelto" => (number_format((float) $dVuelto, 2)),
+            "iPzPag" => 1,
+            "dNroItems" => count($items),
+            "dVTotItems" => (number_format((float) $dVTotItems, 2)),
+            "gFormaPago" => array(
+                array(
+                    "iFormaPago" => $medioPago,
+                    "dVlrCuota" => (number_format((float) $dVlrCuota, 2)),
+                )
+            ),
+        );
+
+        return $totales;
     }
 
-    $totales = array(
-        "dTotNeto" => (number_format((float) $dTotNeto, 2)),
-        "dTotITBMS" => (number_format((float) $dTotITBMS, 2)),
-        "dTotGravado" => (number_format((float) $dTotGravado, 2)),
-        "dVTot" => (number_format((float) $dVTot, 2)),
-        "dTotRec" => (number_format((float) $dTotRec, 2)),
-        "dVuelto" => (number_format((float) $dVuelto, 2)),
-        "iPzPag" => 1,
-        "dNroItems" => count($items),
-        "dVTotItems" => (number_format((float) $dVTotItems, 2)),
-        "gFormaPago" => array(
-            array(
-                "iFormaPago" => $medioPago,
-                "dVlrCuota" => (number_format((float) $dVlrCuota, 2)),
-            )
-        ),
-    );
-
-    return $totales;
-}
-	
-    public function BSNFE_GenerarLineas($items,$shipping)
+    public function BSNFE_GenerarLineas($items, $shipping)
     {
         $vloObtenerImpuesto = new BSNFEObtenerImpuesto();
         $vloObtenerDescuento = new BSNFEObtenerDescuento();
-      
+
         $lineas = array();
         $lineCount = 1;
         foreach ($items as $item) {
@@ -134,15 +137,15 @@ class BSNFEDocumento
             $taxes = $item->get_taxes();
             $taxClass = $product->get_tax_class();
             $rates = array_shift($taxes);
-            $rates = array_filter( $rates);
+            $rates = array_filter($rates);
             $item_rate = array_shift($rates);
-            
+
             $linea = array(
                 "dSecItem" => $lineCount,
                 "dDescProd" => $item['name'],
                 "dCodProd" => $item['product_id'],
                 "cUnidad" => $product->get_attribute('unidad-medida'),
-                "dCantCodInt" => $item['quantity'],
+                "dCantCodInt" => (number_format((float) $item['quantity'], 2)),
                 "gPrecios" => array(
                     "dPrUnit" => (number_format((float) $descuentoData['precioSinDescuento'], 2)),
                     "dPrUnitDesc" => (number_format((float) $descuentoData['descuento'], 2)),
@@ -158,7 +161,7 @@ class BSNFEDocumento
             $lineCount++;
         }
 
-        if($shipping['total']>0){
+        if ($shipping['total'] > 0) {
 
             $linea = array(
                 "dSecItem" => $lineCount,
@@ -178,12 +181,8 @@ class BSNFEDocumento
                 ),
             );
             array_push($lineas, $linea);
-
         }
 
         return $lineas;
     }
-
 }
-
-?>

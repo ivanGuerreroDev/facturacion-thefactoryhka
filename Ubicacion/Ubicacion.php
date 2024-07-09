@@ -47,7 +47,7 @@ class BSNFEGetUbicacion
 
 
         function BSNFE_Provincias(){
-            $url=  WP_PLUGIN_DIR ."/WooCommerce-PA/Files/Provincias.json";
+            $url=  WP_PLUGIN_DIR ."/woocommerce-facturacion/Files/Provincias.json";
             $provinciasContents = file_get_contents( $url,true);
             $provinciasList = json_decode($provinciasContents, true);
             return $provinciasList;
@@ -55,7 +55,7 @@ class BSNFEGetUbicacion
         function BSNFE_Distritos(){
             // Sanear y escapar el valor de $_GET["provincia"]
             $iBSNFEProvincia = isset($_GET["provincia"]) ? intval($_GET["provincia"]) : 0;
-            $url = WP_PLUGIN_DIR . "/WooCommerce-PA/Files/Distritos.json";
+            $url = WP_PLUGIN_DIR . "/woocommerce-facturacion/Files/Distritos.json";
         
             // Obtener el contenido del archivo JSON y sanitizarlo
             $distritosContents = file_get_contents($url);
@@ -86,7 +86,7 @@ class BSNFEGetUbicacion
             $iBSNFEDistrito = isset($_GET["distrito"]) ? absint($_GET["distrito"]) : 0;
         
             // Construir la ruta del archivo JSON de manera segura
-            $url = WP_PLUGIN_DIR . "/WooCommerce-PA/Files/Corregimientos.json";
+            $url = WP_PLUGIN_DIR . "/woocommerce-facturacion/Files/Corregimientos.json";
         
             // Verificar si el archivo existe antes de intentar abrirlo
             if (file_exists($url)) {
@@ -116,7 +116,7 @@ class BSNFEGetUbicacion
         
 
         function BSNFE_AllCorregimientos(){
-            $url=  WP_PLUGIN_DIR ."/WooCommerce-PA/Files/Corregimientos.json";
+            $url=  WP_PLUGIN_DIR ."/woocommerce-facturacion/Files/Corregimientos.json";
             $corregimientosContents = file_get_contents( $url,true);
             $corregimientosList = json_decode($corregimientosContents, true);
             return $corregimientosList;
@@ -124,7 +124,7 @@ class BSNFEGetUbicacion
 
 
         function BSNFE_ObtenerCorregimiento($iBSNFECorregimiento,$iBSNFEProvincia){
-            $url=  WP_PLUGIN_DIR ."/WooCommerce-PA/Files/Corregimientos.json";
+            $url=  WP_PLUGIN_DIR ."/woocommerce-facturacion/Files/Corregimientos.json";
             $corregimientosContents = file_get_contents( $url,true);
             $corregimientosList = json_decode($corregimientosContents, true);
             
@@ -138,7 +138,7 @@ class BSNFEGetUbicacion
             return;
         }
         function BSNFE_ObtenerProvincia($id){
-            $url=  WP_PLUGIN_DIR ."/WooCommerce-PA/Files/Provincias.json";
+            $url=  WP_PLUGIN_DIR ."/woocommerce-facturacion/Files/Provincias.json";
             $provinciasContents = file_get_contents( $url,true);
             $provinciasList = json_decode($provinciasContents, true);
             
@@ -150,7 +150,7 @@ class BSNFEGetUbicacion
             return;
         }
         function BSNFE_ObtenerDistrito($iBSNFEDistrito,$iBSNFEProvincia){
-            $url=  WP_PLUGIN_DIR ."/WooCommerce-PA/Files/Distritos.json";
+            $url=  WP_PLUGIN_DIR ."/woocommerce-facturacion/Files/Distritos.json";
             $distritosContents = file_get_contents( $url,true);
             $distritosList = json_decode($distritosContents, true);
             

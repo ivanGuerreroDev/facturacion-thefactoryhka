@@ -25,5 +25,7 @@ abstract class BSNFEEnumMedioPago
     const Redsys="redsys";
     const Check="nmwoo_2co";
     const Vpos="misha";
+    const Nmipay="nmipay";
+    const Yappy="yappy_payment";
 }
 ?>

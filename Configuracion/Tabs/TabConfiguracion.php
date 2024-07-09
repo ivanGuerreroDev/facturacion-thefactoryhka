@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Saneado y validación
     $BSNFEambiente = isset($_POST['BSNFEambiente']) ? sanitize_text_field(wp_unslash($_POST['BSNFEambiente'])) : ''; // Sanitizamos el campo "BSNFEambiente"
     $puntoFacturacion = isset($_POST['BSNFEPunto_Facturacion']) ? sanitize_text_field(str_pad(wp_unslash($_POST['BSNFEPunto_Facturacion']), 3, "0", STR_PAD_LEFT)) : ''; // Sanitizamos el número de punto de facturación
-    $BSNFEUsuario = isset($_POST['BSNFEUsuario']) ? sanitize_text_field(wp_unslash($_POST['BSNFEUsuario'])) : ''; // Sanitizamos el nombre de usuario
+    $BSNFEToken = isset($_POST['BSNFEToken']) ? sanitize_text_field(wp_unslash($_POST['BSNFEToken'])) : ''; // Sanitizamos el nombre de usuario
     $BSNFEClave = isset($_POST['BSNFEClave']) ? sanitize_text_field(wp_unslash($_POST['BSNFEClave'])) : ''; // Sanitizamos la clave de usuario
 
     // Validar ambiente
@@ -27,17 +27,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $puntoFacturacion_valido = preg_match('/^\d{3}$/', $puntoFacturacion);
 
     // Validar nombre de usuario
-    $BSNFEUsuario_valido = !empty($BSNFEUsuario);
+    $BSNFEToken_valido = !empty($BSNFEToken);
 
     // Validar clave de usuario
     $BSNFEClave_valido = !empty($BSNFEClave);
 
     // Si todos los datos son válidos, actualizamos las opciones
-    if ($BSNFEambiente_valido && $puntoFacturacion_valido && $BSNFEUsuario_valido && $BSNFEClave_valido) {
+    if ($BSNFEambiente_valido && $puntoFacturacion_valido && $BSNFEToken_valido && $BSNFEClave_valido) {
         // Actualizamos las opciones
         update_option("BSNFEambiente", $BSNFEambiente); // No es necesario validar ya que solo puede ser 'on' o 'off'
         update_option("BSNFEPunto_Facturacion", $puntoFacturacion);
-        update_option("BSNFEUsuario", $BSNFEUsuario);
+        update_option("BSNFEToken", $BSNFEToken);
         update_option("BSNFEClave", $BSNFEClave);
 
         BSNFE_ImprimirMensajeConfiguracion("Datos actualizados correctamente");
@@ -52,7 +52,7 @@ function BSNFE_Register_my_general_settings_fields()
     register_setting('general', 'BSNFETitulo_Ajustes_GTI', 'esc_attr');
     register_setting('general', 'BSNFEPunto_Facturacion', 'esc_attr');
     //register_setting('general', 'BSNFEDecimales', 'esc_attr');
-    register_setting('general', 'BSNFEUsuario', 'esc_attr');
+    register_setting('general', 'BSNFEToken', 'esc_attr');
     register_setting('general', 'BSNFEClave', 'esc_attr');
     register_setting('general', 'BSNFEambiente', 'esc_attr');
 }
@@ -109,11 +109,11 @@ add_action('admin_notices', 'BSNFE_ImprimirMensajeConfiguracion');
                             </td>
                         </tr>
                         <tr>
-                            <td><label>Usuario</label></td>
+                            <td><label>Token</label></td>
                             <td>
                                 <?php
-                                $vlcUsurio = get_option('BSNFEUsuario', '');
-                                echo '<input type="text" required id="BSNFEUsuario" name="BSNFEUsuario" value="' . esc_attr($vlcUsurio) . '" />';
+                                $vlcUsurio = get_option('BSNFEToken', '');
+                                echo '<input type="text" required id="BSNFEToken" name="BSNFEToken" value="' . esc_attr($vlcUsurio) . '" />';
                                 ?>
                             </td>
                         </tr>

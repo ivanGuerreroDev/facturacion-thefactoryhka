@@ -5,7 +5,7 @@ add_filter('woocommerce_billing_fields', 'BSNFE_custom_woocommerce_billing_field
 function BSNFE_custom_woocommerce_billing_fields($fields)
 {
 
-
+    /*
     $fields['billing_options_emitir'] = array(
         'label' => 'Emitir documento', 'factura-electronica',
         // Add custom field label
@@ -23,12 +23,28 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
             '1' => 'Si',
             '2' => 'No'
         )
+    );*/
+    $fields['billing_options_typefac'] = array(
+        'label' => 'Factura', 'factura-electronica',
+        // Add custom field label
+        'placeholder' => _x('Por favor elija una opción', 'placeholder', 'factura-electronica'),
+        // Add custom field placeholder
+        'required' => true,
+        // if field is required or not
+        'clear' => false,
+        // add clear or not
+        'type' => 'select',
+        'priority' => 120,
+        // add field type
+        'options' => array(
+            '' => 'Por favor elija una opción',
+            '01' => 'Factura con nombre',
+            '02' => 'Factura sin nombre'
+        )
     );
     $fields['billing_options_tiporuc'] = array(
         'label' => 'Tipo de RUC', 'factura-electronica',
-        'priority' => 90,
-        // Add custom field label
-        'placeholder' => _x('Your RUC here....', 'placeholder', 'factura-electronica'),
+        'priority' => 130,
         // Add custom field placeholder
         'required' => false,
         // if field is required or not
@@ -52,7 +68,7 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
         'clear' => false,
         // add clear or not
         'type' => 'select',
-        'priority' => 100,
+        'priority' => 130,
         // add field type
         'options' => array(
             '' => 'Por favor elija una opción',
@@ -62,10 +78,8 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
             '04' => 'Extranjero',
         )
     );
-    $fields['billing_options_ruc'] = array(
-        'label' => '<span id="rucLabel">Número de RUC</span>', 'factura-electronica',
-        // Add custom field label
-        'placeholder' => _x('Your RUC here....', 'placeholder', 'factura-electronica'),
+    $fields['billing_options_razonsocial'] = array(
+        'label' => 'Razon social', 'factura-electronica',
         // Add custom field placeholder
         'required' => false,
         // if field is required or not
@@ -73,7 +87,18 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
         // add clear or not
         'type' => 'text',
         // add field type
-        'priority' => 110,
+        'priority' => 140,
+    );
+    $fields['billing_options_ruc'] = array(
+        'label' => '<span id="rucLabel">Número de cédula o pasaporte</span>', 'factura-electronica',
+        // Add custom field placeholder
+        'required' => false,
+        // if field is required or not
+        'clear' => false,
+        // add clear or not
+        'type' => 'text',
+        // add field type
+        'priority' => 140,
     );
 
     $fields['billing_options_dv'] = array(
@@ -87,7 +112,7 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
         // add clear or not
         'type' => 'text',
         // add field type
-        'priority' => 120,
+        'priority' => 150,
     );
 
     $ubicacion = new BSNFEGetUbicacion();
@@ -98,7 +123,6 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
         $key = $corregimiento['IBSNFEProvincia'] . '-' . $corregimiento['IBSNFEDistrito'] . '-' . $corregimiento['IBSNFECorregimientos'];
         $correList[$key] = $corregimiento['Descripcion'];
     }
-
     $fields['billing_options_corre'] = array(
         'label' => 'Corregimiento', 'factura-electronica',
         // Add custom field label
@@ -109,7 +133,7 @@ function BSNFE_custom_woocommerce_billing_fields($fields)
         'clear' => false,
         // add clear or not
         'type' => 'select',
-        'priority' => 130,
+        'priority' => 160,
         'id' => 'BSNFECorreg2',
         // add field type
         'options' => $correList

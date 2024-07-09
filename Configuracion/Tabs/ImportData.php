@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             // Sanitizar y escapar los datos antes de actualizar las opciones uno por uno
             update_option("BSNFEPunto_Facturacion", esc_html(sanitize_text_field($configData['BSNFEPunto_Facturacion'])));
             update_option("BSNFEDecimales", esc_html(sanitize_text_field($configData['BSNFEDecimales'])));
-            update_option("BSNFEUsuario", esc_html(sanitize_text_field($configData['BSNFEUsuario'])));
+            update_option("BSNFEToken", esc_html(sanitize_text_field($configData['BSNFEToken'])));
             update_option("BSNFEClave", esc_html(sanitize_text_field($configData['BSNFEClave'])));
             update_option("BSNFETipoRuc", esc_html(sanitize_text_field($configData['BSNFETipoRuc'])));
             update_option("BSNFERuc", esc_html(sanitize_text_field($configData['BSNFERuc'])));
